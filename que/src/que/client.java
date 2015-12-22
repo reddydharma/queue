@@ -13,8 +13,10 @@ public class client {
 		q.insert(12);
 		q.display();
 		int no=q.delete();
+		q.display();
 		int no1=q.delete();
 		int no2=q.delete();
+		q.display();
 		int no3=q.delete();
 		int no4=q.delete();
 		q.display();
